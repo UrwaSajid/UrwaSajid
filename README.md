@@ -1,5 +1,14 @@
 ## Hi there 👋
 
+I'm Urwa, passionate about building useful, creative, and efficient tech solutions. My focus is on:
+
+- 🌐 Exploring *full-stack web development* with technologies like *React, **JavaScript, and **Node.js*
+- ⚙ Creating *smart automations* using *n8n, APIs, and **AI tools*
+- 🧠 Constantly learning by solving *real-world problems* through code
+- 🚀 Always experimenting with new ideas and tools to improve workflows and user experience
+
+I'm especially interested in low-code automation, web app architecture, and using AI to streamline everyday tasks. 
+Thanks for stopping by!
 <!--
 **UrwaSajid/UrwaSajid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
